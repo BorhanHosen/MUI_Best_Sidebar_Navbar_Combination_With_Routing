@@ -1,12 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Review
 
-## Available Scripts
+https://github.com/BorhanHosen/MUI_Best_Sidebar_Navbar_Combination_With_Routing/assets/138838370/8341f44b-3c06-479e-9ad3-0f463a3af9bf
 
-In the project directory, you can run:
+### In this ptoject, I used MUI(Material UI) and react-router-dom
 
-### `npm start`
+## How to start
+### 01. Download This Git
+### 02. Go to project directory
+### 03. Run `npm install`
+### 04. Run `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
